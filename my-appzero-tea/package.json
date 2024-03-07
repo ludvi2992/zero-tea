@@ -1,6 +1,6 @@
 {
-  "name": "zerotea",
-  "version": "1.0.0",
+  "name": "my-appzero-tea",
+  "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
